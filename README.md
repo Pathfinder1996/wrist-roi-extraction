@@ -33,7 +33,7 @@ To set up the environment (optional if already installed), run:
 ```
 pip install -r .\requirements.txt
 ```
-Replace the image_path in vein_enhance.py with your input image path, then run:
+Replace the captured_img in wrist_roi_extraction.py with your input image path, then run:
 ```
 python .\wrist_roi_extraction.py
 ```
