@@ -1,5 +1,5 @@
 ## 📝 Wrist ROI(Region of Interest) Extraction
-Python implementation of the wrist ROI(Region of Interest) extraction algorithm
+Python implementation of the wrist ROI(Region of Interest) extraction algorithm.
 
 The detailed algorithm design process is documented on pages 31–48 of my master’s thesis: [Master’s thesis link](https://github.com/Pathfinder1996)
 
