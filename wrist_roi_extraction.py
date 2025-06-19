@@ -6,7 +6,6 @@ import numpy as np
 def line_intersection(p1, p2, p3, p4):
     """
     Calculate the intersection point of two lines (p1-p2) and (p3-p4)
-    using the determinant method.
     """
     A1 = p2[1] - p1[1]
     B1 = p1[0] - p2[0]
