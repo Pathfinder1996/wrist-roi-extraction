@@ -12,7 +12,7 @@ The detailed algorithm design process is documented on pages 31–48 of my maste
 |-------------|--------------|-------------------|
 | <img src="image/001_L_M_S1_01.png" width="250"/> | <img src="image/padded_image.png" width="250"/> | <img src="image/thresholded_image.png" width="250"/> |
 
-| 3. Largest Contou | 4. Convex Hull | 5. Convexity Defects (P1 and P2) |
+| 3. Largest Contours | 4. Convex Hull | 5. Convexity Defects (P1 and P2) |
 |---------------|------------|----------------|
 | <img src="image/contour_image.png" width="250"/> | <img src="image/hull_image.png" width="250"/> | <img src="image/defects_image.png" width="250"/> |
 
