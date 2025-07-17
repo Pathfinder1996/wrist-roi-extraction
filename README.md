@@ -1,4 +1,6 @@
 ## 📝 手腕感興趣區域(Region of Interest, ROI)提取演算法
+此專題為我的碩士論文中靜脈辨識系統的手腕感興趣區域提取程式碼。
+
 使用 Python 實現的手腕感興趣區域(Region of Interest, ROI)提取演算法。
 
 演算法設計細節與流程在我的論文第 27–44 頁。[請點此到我的論文連結並到電子全文下載論文](https://etheses.lib.ntust.edu.tw/thesis/detail/2b733280676d7c87e0445313c40a9b74/?seq=2#)
