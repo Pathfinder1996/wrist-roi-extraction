@@ -9,7 +9,7 @@
 - `wrist_roi_extraction.py` - 主程式
 - `requirements.txt` - Python3.9.2 用到的函式庫及其版本
  
-## 📊 測試結果(左手為例)
+## 📊 測試結果(左手為例) (點擊縮圖可放大)
 | 輸入影像(左手為例) | 1. 填充影像周圍 80 像素 | 2. Otsu's 將手腕與背景分離 |
 |-------------|--------------|-------------------|
 | <img src="image/001_L_M_S1_01.png" width="250"/> | <img src="image/padded_image.png" width="250"/> | <img src="image/thresholded_image.png" width="250"/> |
