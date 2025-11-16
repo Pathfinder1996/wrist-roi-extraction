@@ -3,8 +3,8 @@
 This repository provides a Python implementation of the wrist Region of Interest (ROI) extraction algorithm used in our wrist vein verification system.
 
 ## Contents
-- `wrist_roi_extraction.py` - Main ROI extraction script
-- `requirements.txt` - Python 3.9.2 dependency list
+- `wrist_roi_extraction.py` - Main ROI extraction script.
+- `requirements.txt` - Python 3.9.2 dependency list.
  
 ## Sample Results (Left Wrist Example) (Click the thumbnails to enlarge)
 | Input Image | 1. Padding (80 px) | 2. Otsu Thresholding |
