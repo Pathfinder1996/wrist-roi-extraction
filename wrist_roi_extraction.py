@@ -205,7 +205,7 @@ m_persp = cv2.getPerspectiveTransform(ROI_points, dst_points)
 warped = cv2.warpPerspective(img, m_persp, (ROI_w, ROI_h))
 
 # Resize and save result
-resized_roi = cv2.resize(warped, (128, 128))
+resized_roi = cv2.resize(warped, (64, 64))
 cv2.imwrite("ROI.png", resized_roi)
 
 elapsed_time = time.time() - start_time
